@@ -3,12 +3,10 @@
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...(still thinking)
 - 📫 Wanna reach me? 
-- if (yes)
-- {
+- if (yes) {
 -    println("IG = lm_roshan or Email = lmroshan497@gmail.com")
 - }
-- else
-- {
+- else {
 - }
 
 <!---
